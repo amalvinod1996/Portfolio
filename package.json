@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalvinod1996/Portfolio.git"
+  },
+  "author": "AmalVinod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalvinod1996/Portfolio/issues"
+  },
+  "homepage": "https://github.com/amalvinod1996/Portfolio#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  }
+}
